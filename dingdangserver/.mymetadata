@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="dingdangserver"
+  id="myeclipse.1447116267473"
+  context-root="/dingdang"
+  j2ee-spec="5.0"
+  archive="dingdangserver.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
